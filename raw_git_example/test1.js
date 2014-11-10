@@ -1,1 +1,1 @@
-alert("Test 1's response");
+console.log("Test 1's response");
